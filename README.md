@@ -5,9 +5,8 @@ Este repositório contém meu certificado em **Cibersegurança** conquistado na 
 ---
 
 ## 🏅 Cisco Networking Academy
-- **Introduction to Cybersecurity**  
-  ![Cisco Logo](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cisco/cisco-original.svg)  
-  [Ver certificado](./Cisco/introduction-to-cybersecurity.pdf)
+- **Introduction to Cybersecurity**   
+  [Ver certificado](.cisco/I2CSUpdate20250926-30-zyvkzk.pdf)
 
 ---
 
