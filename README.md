@@ -10,5 +10,4 @@ Este repositório contém meus certificados em **Cibersegurança**
 
 ---
 
-> Este certificado representa minha jornada inicial em **Red Team**, **segurança de redes** e **fundamentos de cibersegurança**.
 
