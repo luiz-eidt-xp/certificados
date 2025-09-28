@@ -1,6 +1,6 @@
 # 📜 Meu Certificado de Cibersegurança
 
-Este repositório contém meu certificado em **Cibersegurança** conquistado na **Cisco Networking Academy**.
+Este repositório contém meus certificados em **Cibersegurança**
 
 ---
 
