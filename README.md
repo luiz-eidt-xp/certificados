@@ -1,10 +1,9 @@
-# 📜 Meu Certificado de Cibersegurança
-
-Este repositório contém meus certificados em **Cibersegurança**
+# Meu Certificados
+Este repositório contém meus certificados
 
 ---
-
-## 🏅 Cisco Networking Academy
+## Cybersecurity
+### Cisco Networking Academy
 - **Introduction to Cybersecurity**   
   [Ver certificado](cisco/I2CSUpdate20250926-30-zyvkzk.pdf)
 
